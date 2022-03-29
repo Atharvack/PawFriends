@@ -1,2 +1,2 @@
-# PawFriends
-Tinder for dogs
+# PawFriend
+Microsoft Azure Project
